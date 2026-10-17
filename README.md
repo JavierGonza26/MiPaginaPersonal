@@ -14,10 +14,9 @@ Identificar la estructura básica del frontend mediante HTML, organizando correc
 - Enlaces a sitios web favoritos.
 
 ## Tecnologías utilizadas
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Visual Studio Code
-- Git y GitHub
 
 ## Autor
 Wildor Javier Jarquín Gonzalez
